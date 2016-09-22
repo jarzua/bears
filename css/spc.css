@@ -3,10 +3,10 @@
 	font-style: normal;
 	font-family: 'codropsicons';
 	src:url('fonts/c.eot');
-	src:url('fonts/c.eot?#iefix') format('embedded-opentype'),
+	src:url('fonts/c.eot') format('embedded-opentype'),
 		url('fonts/c.woff') format('woff'),
 		url('fonts/c.ttf') format('truetype'),
-		url('fonts/c.svg#codropsicons') format('svg');
+		url('fonts/c.svg') format('svg');
 }
 
 *, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
