@@ -25,12 +25,13 @@
 }
 
 .bear1 .main-title {
+	text-transform: uppercase;
 	font-size: 4.2em;
 	letter-spacing: 0.1em;
 }
 
-.bear1 .main-title .thin {
-	font-weight: 50;
+.main-title .thin {
+	font-weight: 200;
 }
 
 @media only screen and (max-width : 768px) {
