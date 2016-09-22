@@ -34,6 +34,7 @@
 
 .main-title .thin {
 	font-weight: 100;
+	font-style: none;
 }
 
 @media only screen and (max-width : 768px) {
